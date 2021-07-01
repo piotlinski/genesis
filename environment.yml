@@ -1,4 +1,4 @@
-name: genesis_env
+name: base
 channels:
   - pytorch
   - defaults
@@ -120,4 +120,4 @@ dependencies:
     - socksipy-branch==1.1
     - tensorboardx==1.9
     - zipp==0.6.0
-prefix: /opt/conda/envs/genesis_env
+prefix: /opt/conda/
